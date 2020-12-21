@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="詳細">36b71514079120103e3af0ef7c1ed09f</embedded_screen>
+        <form display_value="インシデント Form Screen">feb71514079120103e3af0ef7c1ed09c</form>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-21 07:41:02</sys_created_on>
+        <sys_id>7ab71514079120103e3af0ef7c1ed0b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="testapp2" source="x_540075_testapp2">6897ddd0079120103e3af0ef7c1ed0ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp2">6897ddd0079120103e3af0ef7c1ed0ba</sys_scope>
+        <sys_update_name>sys_sg_form_segment_7ab71514079120103e3af0ef7c1ed0b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-21 07:41:02</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>

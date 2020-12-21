@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="testapp2 インシデント">7eb79990079120103e3af0ef7c1ed0ec</data_item>
+        <interleaved_field/>
+        <name>インシデント Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-21 07:41:02</sys_created_on>
+        <sys_id>fab71514079120103e3af0ef7c1ed0b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>インシデント Item Stream</sys_name>
+        <sys_package display_value="testapp2" source="x_540075_testapp2">6897ddd0079120103e3af0ef7c1ed0ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp2">6897ddd0079120103e3af0ef7c1ed0ba</sys_scope>
+        <sys_update_name>sys_sg_item_stream_fab71514079120103e3af0ef7c1ed0b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-21 07:41:02</sys_updated_on>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>
